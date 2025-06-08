@@ -1,1 +1,1 @@
-# model_entrenable
+# model_entrenable/para_tu.bot
